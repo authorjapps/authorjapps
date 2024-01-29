@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🌐 How to reach me : 
+- [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak)
+
+# 🔆 My OpenSource Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&theme=radical&hide_rank=false&hide_title=true)
+
+## 📊 Detailed Contributions:
+![](https://github-readme-streak-stats.herokuapp.com/?user=authorjapps&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=authorjapps&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
