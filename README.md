@@ -1,4 +1,4 @@
-### Hi👋, I'm Your Automation Journey Assistant 💫
+### Hi👋, I'm your Data and API automation assistant, supporting you for over a decade with frameworks and libraries for your TDD journey.💫
 
 <!--
 **authorjapps/authorjapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
