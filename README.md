@@ -25,14 +25,10 @@ Here are some ideas to get you started:
 
 🌐 How to reach me : 
 - **Collaborators**:
-  - Enter the subject as "Thinking of adding a new feature into the TDD framework! Need to discuss about this"
+  - Enter the subject as "Thinking of adding a new feature into the OpenSource framework! Need some discussio on this"
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 - **Tool Creators**:
   - Enter the subject as "Got a new idea to create a tool! Need some help"
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
-- **Recruiters**:
-  - Enter the subject as "Got a new exciting opportunity! Need to discuss about your availability"
-  - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
-
 
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak) -->
