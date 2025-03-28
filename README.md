@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 🌐 How to reach me : 
 - **Collaborators**:
-  - Enter the subject as "Thinking of adding a new feature into the OpenSource framework! Need some discussio on this"
+  - Enter the subject as "I'm thinking about adding a new feature to the OpenSource framework, I'd love to have a discussion and get your thoughts on it!"
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 - **Tool Creators**:
-  - Enter the subject as "Got a new idea to create a tool! Need some help"
+  - Enter the subject as "I’ve got an exciting new idea for a tool, and I could really use some help in bringing it to life! Let’s collaborate and engineer something amazing together."
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak) -->
