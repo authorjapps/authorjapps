@@ -1,5 +1,7 @@
 ### Hi👋, I'm your Data and API automation assistant, supporting you for over a decade with frameworks and libraries for your TDD journey.💫
 
+![](https://komarev.com/ghpvc/?username=authorjapps)
+
 <!--
 **authorjapps/authorjapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
