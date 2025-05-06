@@ -1,4 +1,4 @@
-### Hi👋, I'm your Data and API automation assistant, supporting you for over a decade with frameworks and libraries for your TDD journey.💫
+### Hi👋, We're your Data and API automation assistant, supporting you for over a decade with frameworks and libraries for your TDD journey.
 
 ![](https://komarev.com/ghpvc/?username=authorjapps)
 
@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Blog posts 💫
+- [The Best Open Source API Testing Tools for 2025](https://testguild.com/12-open-source-api-testing-tools-rest-soap-services/#:~:text=Citrus%20Framework-,ZeroCode,-Katalon%20Studio)
+- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing)
+- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a)
+- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing)
 
-# 🔆 My OpenSource Contributions
+
+# 🔆 Open-Source Contributions
 ![GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&hide_rank=false&hide_title=true)
 
 ## 📊 Detailed Breakdowns:
