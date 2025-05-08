@@ -1,4 +1,4 @@
-### Hi👋, We're your Data and API automation assistant, supporting you for over a decade with frameworks and libraries for your TDD journey.
+### Hi👋, We're your Data and API automation assistant, supporting you for over a decade with useful frameworks and libraries in your TDD journey.
 
 ![](https://komarev.com/ghpvc/?username=authorjapps)
 
@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Blog posts 💫
-- [The Best Open Source API Testing Tools for 2025](https://testguild.com/12-open-source-api-testing-tools-rest-soap-services/#:~:text=Citrus%20Framework-,ZeroCode,-Katalon%20Studio)
+- [REST API Testing - Getting Started](https://dzone.com/articles/rest-api-testing-using-the-zerocode-json-based-bdd)
 - [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing)
 - [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a)
 - [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing)
+- [The Best Open Source API Testing Tools for 2025](https://testguild.com/12-open-source-api-testing-tools-rest-soap-services/#ZeroCode:~:text=Zerocode%20Open%20Source%20enables%20you)
 
 
 # 🔆 Open-Source Contributions
