@@ -1,4 +1,5 @@
-### Hi👋, We're your Data and API automation assistant, supporting you for over a decade with useful frameworks and libraries in your TDD journey.
+### Hi👋, 
+We're your ETL, Data and API automation tool, lib and framework creators, helping and supporting you for over a decade in your TDD journey.
 
 ![](https://komarev.com/ghpvc/?username=authorjapps)
 
@@ -17,14 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Blog posts 💫
-- [REST API Testing - Getting Started](https://dzone.com/articles/rest-api-testing-using-the-zerocode-json-based-bdd)
-- [Quick & Easy Automation for Kafka and Data Pipeline Testing](https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing)
-- [Simplify Performance Testing with Accuracy — Headless JMeter Style](https://dzone.com/articles/how-we-do-performance-testing-easily-efficiently-a)
-- [Getting Started with Kafka | Early Bees](https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing)
-- [The Best Open Source API Testing Tools for 2025](https://testguild.com/12-open-source-api-testing-tools-rest-soap-services/#ZeroCode:~:text=Zerocode%20Open%20Source%20enables%20you)
+- Read ["Manual Testing" Blog posts](https://github.com/nirmalchandra/nirmalchandra/blob/main/README.md#manual-testing-blogs) here
+- Read ["Automated Testing" Blog posts](https://github.com/nirmalchandra/nirmalchandra/blob/main/README.md#automated-testing-blogs) here
 
-
-# 🔆 Open-Source Contributions
+# 🔆 Open-Source Contribution Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=authorjapps&show_icons=true&hide_rank=false&hide_title=true)
 
 ## 📊 Detailed Breakdowns:
@@ -37,7 +34,7 @@ Here are some ideas to get you started:
   - Enter the subject as "I'm thinking about adding a new feature to the OpenSource framework, I'd love to have a discussion and get your thoughts on it!"
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 - **Tool Creators**:
-  - Enter the subject as "I’ve got an exciting new idea for a tool, and I could really use some help in bringing it to life! Let’s collaborate and engineer something amazing together."
+  - Enter the subject as "I’ve got an new idea for developing tool, and I need some help in bringing it to life! Let’s collaborate and engineer together."
   - [![LinkedIn](https://img.shields.io/badge/Book%20a%20Free%20Meeting(15min)-8A2BE2)](https://calendar.app.google/V99mEP5YBxbQ5xig7)
 
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ncnayak) -->
